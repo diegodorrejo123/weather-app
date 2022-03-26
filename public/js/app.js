@@ -3,7 +3,7 @@ fetch('http://puzzle.mead.io/puzzle').then((response) => {
         console.log(data);
     })
 })
-
+ 
 
 
 const weatherForm = document.querySelector('form')
